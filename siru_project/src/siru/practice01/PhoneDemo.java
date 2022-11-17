@@ -1,4 +1,4 @@
-package siru_practice01;
+package siru.practice01;
 /*
  * 创建对象
  *    格式： 类名 对象名 = new 类名（）

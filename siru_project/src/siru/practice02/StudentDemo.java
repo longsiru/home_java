@@ -1,4 +1,4 @@
-package siru_practice02;
+package siru.practice02;
 /*
  * 学生测试类（测试类都要有main）
  */

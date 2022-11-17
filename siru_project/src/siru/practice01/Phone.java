@@ -1,4 +1,4 @@
-package siru_practice01;
+package siru.practice01;
 /*
  * 类的定义
  * 
