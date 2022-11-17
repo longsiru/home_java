@@ -1,5 +1,22 @@
 package siru_practice01;
-
+/*
+ * 类的定义
+ * 
+ * 类的定义步骤：
+ *     定义类
+ *     编写类的成员变量
+ *     编写类的成员方法
+ *     
+ *     例如：
+ *         手机类：
+ *             类名：手机（Phone）
+ *             
+ *             成员变量：品牌（brand）
+ *                      价格（price）
+ *                  
+ *             成员方法：打电话（call）
+ *                      发短信（sendMessage)
+ */
 public class Phone {
 
 	//成员变量
